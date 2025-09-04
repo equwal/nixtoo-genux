@@ -1,6 +1,10 @@
 # Nix package manager on another OS (no nix-env). 100% Declarative setup.
 
+![Nixtoo Genux logo](https://therealtruex.com/static/nixtoogenux.webp)
+
 Including Gentoo of course. Nixtoo Genux!
+
+![Is this tomorrow: america under nix!](https://therealtruex.com/static/nixamerica.webp)
 
 ## Files:
 
